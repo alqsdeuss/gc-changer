@@ -1,2 +1,6 @@
-# gc-changer
-🏷️ A script that changes group names very quickly
+## allows to change the names of group chat using a token
+
+## requirements
+- python 3.7 or higher
+  - `requests`
+  - `colorama`
